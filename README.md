@@ -1,2 +1,2 @@
 # NATURAL-RUBBER-HARVEST-MANAGEMENT-PLATFORM
-1.3 million rubber growers and 0.6 million workers in the rubber plantation sector in India
+About 1.3 million rubber growers and 0.6 million workers are directly involved in the rubber plantation sector in India. Major NR producing countries are- Indonesia, Vietnam, Malaysia, China, India, Mayanmar, Cambodia, Srilanka- other many SEA countries, Brazil & Some African countries etc. Farmers manages rubber Plantations & harvest NR from their plantation. Major Commodity market for NR is -TOCOM(JAPAN) & ICEX (INDIA). World NR production is 13.6 Mn MT (2019) & Consumption is 13.7 Mn MT (2019)
